@@ -36,7 +36,7 @@ public class AddNonVegDetailsActivity extends AppCompatActivity {
 
     List<NonVegDetails> nonvegs;
 
-/** hdjs **/
+/** hdjs hfg**/
 
 
     @Override
