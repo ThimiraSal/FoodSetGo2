@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="green">#38F25D</color>
+    <color name="grey">#594D4D</color>
+    <color name="red">#C53232</color>
+    <color name="black">#000000</color>
+    <color name="greenLime">#32CD32</color>
+    <color name="light_grey">#E8EBEC</color>
+    <color name="primaryDark">#292b3d</color>
+    <color name="grayLight">#fafafa</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+    <color name="greenyellow">#ADFF2F</color>
+
+    <!--colors for profile-->
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+    <color name="lightseagreen">#20B2AA</color>
+
+<!--    colors for menu-->
+    <color name="lightyellow">#FFFF33</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="darkgreen">#284D31</color>
+    <color name="purple">#CD84D8</color>
+    <color name="orangelight">#E9956E</color>
+    <color name="lightgreen2">#0C9415</color>
+
+</resources>
