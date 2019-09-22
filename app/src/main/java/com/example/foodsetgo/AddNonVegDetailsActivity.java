@@ -61,7 +61,7 @@ public class AddNonVegDetailsActivity extends AppCompatActivity {
         String name = intent.getStringExtra(NonVegActivity.NONVEG_NAME);
 
         textViewnonveg.setText(name);
-
+        //Connecting to firebase
         databaseNonVegDetails = FirebaseDatabase.getInstance().getReference("NonVegDetails").child(id);
 
         nonveg_adddetails_button.setOnClickListener(new View.OnClickListener() {
